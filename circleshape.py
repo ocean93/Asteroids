@@ -1,6 +1,5 @@
 import pygame
 from constants import *
-from player import *
 
 class CircleShape(pygame.sprite.Sprite):
     def __init__(self, x, y, radius):
